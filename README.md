@@ -19,7 +19,7 @@ $ npm install @sunnywayne/piny
 
 ## Usage
 
-```
+```javascript
 const piny = require("@sunnywayne/piny");
 
 piny("I dont like space at all");
