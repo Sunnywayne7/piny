@@ -1,5 +1,7 @@
 ![npm (scoped)](https://img.shields.io/npm/v/%40sunnywayne/piny)
-This is a readme file to test my first badge
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/%40sunnywayne/piny)
+
+
 
 ```
 please be nice
