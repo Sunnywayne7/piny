@@ -6,9 +6,9 @@
     "repository": "@sunnywayne7/piny",
     "main": "index.js",
     "keywords": [
-      "piny",
-      "npm",
-      "package",
-      "bamblehorse"
+        "piny",
+        "npm",
+        "package",
+        "bamblehorse"
     ]
 }
