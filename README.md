@@ -1,6 +1,5 @@
-```
 ##@sunnywayne/piny
-```
+
 ![npm (scoped)](https://img.shields.io/npm/v/%40sunnywayne/piny)
 
 
